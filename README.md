@@ -1,3 +1,6 @@
+> [!NOTE]
+> Shamelessly made with A.I.
+
 # Combine Logo Studio
 
 An interactive editor for building **Combine "City" logos** in the style of Half-Life 2 —
