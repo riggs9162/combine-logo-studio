@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="361.244mm" height="361.244mm"
+ viewBox="0 0 1024 1024"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Ring Logo</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M754.566,371.037 L754.592,370.987 C706.084,286.775 615.162,230.084 511,230.084 C485.607,230.084 461.002,233.453 437.605,239.768 L449.669,283.958 L449.555,283.928 C469.184,278.635 489.763,275.82 511,275.82 C598.209,275.82 674.331,323.288 714.932,393.783 L754.566,371.037"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M716.211,393.077 L716.233,393.035 C675.363,322.085 598.76,274.32 511,274.32 C489.606,274.32 468.875,277.159 449.163,282.48 L461.205,326.664 L461.113,326.64 C477.049,322.343 493.758,320.057 511,320.057 C581.805,320.057 643.609,358.596 676.573,415.831 L716.211,393.077"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M782.196,584.258 L782.251,584.324 C788.554,560.949 791.916,536.367 791.916,511 C791.916,459.608 778.116,411.44 754.02,369.999 L714.432,392.996 L714.453,392.955 C734.629,427.659 746.18,467.981 746.18,511 C746.18,532.258 743.359,552.858 738.088,572.386 L782.196,584.258"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M739.49,572.722 L739.536,572.777 C744.847,553.083 747.68,532.372 747.68,511 C747.68,467.701 736.053,427.118 715.751,392.202 L676.167,415.192 L676.184,415.159 C692.565,443.336 701.943,476.073 701.943,511 C701.943,528.26 699.653,544.985 695.373,560.839 L739.49,572.722"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M696.784,561.186 L696.821,561.231 C701.139,545.217 703.443,528.378 703.443,511 C703.443,475.794 693.989,442.796 677.482,414.406 L637.902,437.389 L637.915,437.363 C650.501,459.012 657.706,484.164 657.706,511 C657.706,524.261 655.947,537.111 652.658,549.293 L696.784,561.186"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M560.43,696.986 L560.523,697.011 C627.023,679.352 679.382,626.98 697.024,560.474 L652.784,548.682 L652.813,548.716 C639.341,599.448 599.416,639.364 548.753,652.803 L560.43,696.986"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M325.655,830.525 L325.61,830.569 C380.099,862.248 443.431,880.39 511,880.39 C544.39,880.39 576.745,875.96 607.51,867.655 L595.403,823.454 L595.56,823.495 C568.547,830.779 540.226,834.653 511,834.653 C451.79,834.653 396.294,818.754 348.565,791.001 L325.655,830.525"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M347.851,792.26 L347.812,792.299 C395.776,820.184 451.523,836.153 511,836.153 C540.391,836.153 568.872,832.254 595.952,824.943 L583.867,780.748 L584.003,780.783 C560.682,787.072 536.231,790.416 511,790.416 C459.883,790.416 411.972,776.69 370.766,752.731 L347.851,792.26"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M370.047,753.994 L370.014,754.028 C411.452,778.12 459.615,791.916 511,791.916 C536.393,791.916 560.998,788.547 584.395,782.232 L572.331,738.042 L572.445,738.072 C552.816,743.365 532.237,746.18 511,746.18 C467.976,746.18 427.65,734.626 392.968,714.46 L370.047,753.994"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M414.44,677.464 L414.417,677.488 C442.804,693.991 475.798,703.443 511,703.443 C528.395,703.443 545.252,701.135 561.279,696.808 L549.259,652.63 L549.33,652.648 C537.085,655.95 524.248,657.706 511,657.706 C484.161,657.706 459.006,650.499 437.371,637.919 L414.44,677.464"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M191.475,325.655 L191.431,325.61 C159.752,380.099 141.61,443.431 141.61,511 C141.61,647.976 216.166,767.539 326.911,831.322 L349.744,791.621 L349.704,791.661 C252.663,735.762 187.347,631.009 187.347,511 C187.347,451.79 203.246,396.294 230.999,348.565 L191.475,325.655"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M229.74,347.851 L229.701,347.812 C201.816,395.776 185.847,451.523 185.847,511 C185.847,631.573 251.474,736.817 348.957,792.961 L371.784,753.265 L371.75,753.3 C287.973,705.042 231.584,614.606 231.584,511 C231.584,459.883 245.31,411.972 269.269,370.766 L229.74,347.851"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M268.006,370.047 L267.972,370.014 C243.88,411.452 230.084,459.615 230.084,511 C230.084,615.169 286.782,706.095 371.003,754.601 L393.825,714.91 L393.796,714.939 C323.282,674.322 275.82,598.203 275.82,511 C275.82,467.976 287.374,427.65 307.54,392.968 L268.006,370.047"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M416.121,154.003 L415.941,153.956 C319.86,179.471 239.157,242.738 190.678,326.911 L230.379,349.744 L230.339,349.704 C272.841,275.92 343.58,220.481 427.711,198.164 L416.121,154.003"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M427.483,196.756 L427.325,196.715 C342.75,219.173 271.712,274.864 229.039,348.957 L268.735,371.784 L268.7,371.75 C305.393,308.05 366.463,260.189 439.095,240.923 L427.483,196.756"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M438.846,239.508 L438.709,239.473 C365.641,258.876 304.267,306.99 267.399,371.003 L307.09,393.825 L307.061,393.796 C337.944,340.181 389.346,299.897 450.479,283.681 L438.846,239.508"/>
+</g>
+
+<g fill="#a8700d" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M450.208,282.261 L450.093,282.231 C388.531,298.579 336.822,339.116 305.76,393.048 L345.445,415.865 L345.421,415.842 C370.496,372.312 412.229,339.605 461.863,326.439 L450.208,282.261"/>
+</g>
+</g>
+</svg>
